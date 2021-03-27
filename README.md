@@ -1,2 +1,2 @@
 # Reinforcement-Learning-based-LQR
-Reinforcement based gain calculation for a tracking LQR using actor-critic method
+Reinforcement Learning based gain calculation for a tracking LQR using actor-critic method
